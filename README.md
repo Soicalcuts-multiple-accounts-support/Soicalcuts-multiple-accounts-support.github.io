@@ -6,7 +6,7 @@ You will just need yiur version number
 
 Version | Supported          |
 | ------- | ------------------ | 
-| v.1.7d   | V2 |
+| v.1.7d   | V2 Secuirty Response |
 | v.1.7c   | V2 |
 | v.1.7   | V2 (beta) |
 | v.1.6 |  V1              |
